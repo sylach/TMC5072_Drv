@@ -2,7 +2,7 @@
  * FILENAME:	TMC5072.c
  * REV:				1.0
  *sd
- * Autor:	Sylwester -	28.05.2018
+ * Autor:sdd	Sylwester -	28.05.2018
 * (C) Copyright 2018 InMotion Labs
  */
 

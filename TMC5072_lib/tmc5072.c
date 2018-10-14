@@ -29,7 +29,7 @@ static tmc5072_set_reg_struct tmc5072_set_dict[] = {
 	{"dmax2",	TMC5072_REG_DMAX_2},
 	{"pos1",	TMC5072_REG_XTARGET_1},
 	{"pos2",	TMC5072_REG_XTARGET_2as},
-	{"mode1",	TMC5072_REG_RAMPMODE_1},
+	{"mode1",	TMC5072_REG_RAMPMODE_1},as
 	{"mode2",	TMC5072_REG_RAMPMODE_2}
 };eew
 

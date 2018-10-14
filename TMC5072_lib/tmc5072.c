@@ -31,7 +31,7 @@ static tmc5072_set_reg_struct tmc5072_set_dict[] = {
 	{"pos2",	TMC5072_REG_XTARGET_2},
 	{"mode1",	TMC5072_REG_RAMPMODE_1},
 	{"mode2",	TMC5072_REG_RAMPMODE_2}
-};
+};eew
 
 static tmc5072_comm_struct tmc5072_dictionary[] = {
 	{"init",		tmc5072_cb_init,	0},

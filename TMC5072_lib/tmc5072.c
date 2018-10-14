@@ -19,7 +19,7 @@ static tmc5072_set_reg_struct tmc5072_set_dict[] = {
 	{"v2", 		TMC5072_REG_V1_2},
 	{"vmax1",	TMC5072_REG_VMAX_1},
 	{"vmax2",	TMC5072_REG_VMAX_2},
-	{"a1",		TMC5072_REG_A1_1},
+	{"a1",		TMC5072_REG_A1_1},asd
 	{"a2",		TMC5072_REG_A1_2},
 	{"amax1",	TMC5072_REG_AMAX_1},
 	{"amax2",	TMC5072_REG_AMAX_2},
